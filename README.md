@@ -6,6 +6,10 @@ Refactor code by meeting standards in web accessibility and following the Scout 
 
 ## Links 
 
-Deployed URL:  GitHub Repository URL: 
+Deployed URL: https://jcuetos97.github.io/Horiseon-Website/  
 
-(./Assets/01-html-css-git-homework-demo.png)
+GitHub Repository URL: https://github.com/jcuetos97/Horiseon-Website 
+
+<p>
+    <img src="./assets/images/01-html-css-git-homework-demo.png" alt="Website Demo">
+</p>
